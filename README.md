@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c757d&size=35&center=true&vCenter=true&width=1000&lines=Hello.+My+name+is+Leonardo+Massaroli+Gui+Martins;I'm+23+years+old;I+am+from+Ribeirão+Preto,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c757d&size=35&center=true&vCenter=true&width=1000&lines=Olá.+Meu+nome+é+Leonardo+Massaroli+Gui+Martins;Tenho+23+anos;Sou+de+Ribeirão+Preto,+SP;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre Mim
 Sou Leonardo Massaroli Gui Martins, um desenvolvedor apaixonado por **Business Intelligence**, com habilidades em **Power BI**, **DAX** e **Python**. Estou constantemente me aprofundando em como transformar dados em insights visuais e criar soluções que otimizam a tomada de decisões.
 
 Atualmente, estou me aprimorando no desenvolvimento **back-end**, com foco em **Flutter**, uma linguagem que me interessa bastante para criar aplicativos robustos e eficientes.
@@ -11,7 +11,7 @@ Quanto à minha formação, sou pós-graduando em **Algoritmos e Estruturas de D
 
 ---
 
-## 🚀 Main Skills:
+## 🚀 Habilidades Principais:
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Tool-6c757d?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=000000)](https://powerbi.microsoft.com/)
 <br><br>
@@ -23,16 +23,38 @@ Quanto à minha formação, sou pós-graduando em **Algoritmos e Estruturas de D
 
 ---
 
-## 🏅 Certifications
-- **DevOps & Agile Culture | FIAP** – 60 hours
-- **Java Fundamentals | FIAP** – 60 hours
-- **Linux Fundamentals | FIAP** – 40 hours
-- **Power BI Professional | Udemy** – 19.5 hours
-- **Dart Week Immersion | Flutter Academy** – 12 hours
+## 💼 Portfólio de Projetos - Estudos
+<details>
+   <summary> Clique para expandir.</summary>
 
+### **[ProjetosDioBI](https://github.com/Leomassaroli/ProjetosDioBI)**
+Este repositório contém todos os projetos realizados durante o curso de Power BI na plataforma DIO. Inclui análises de dados, criação de dashboards interativos e relatórios de Business Intelligence utilizando ferramentas como Power BI, DAX e Python.
+
+- **Ferramentas Utilizadas**: Power BI, DAX, Python
+- **Objetivo**: Criar visualizações de dados que otimizem a tomada de decisão.
+  </details>
 ---
 
-## 🛠 Tools:
+## 💼 Portfólio de Projetos - Pessoais
+<details>
+   <summary> Clique para expandir.</summary>
+
+  </details>
+---
+
+## 🏅 Certificações
+<details>
+   <summary> Clique para expandir.</summary>
+
+- **DevOps & Cultura Ágil | FIAP** – 60 horas
+- **Fundamentos de Java | FIAP** – 60 horas
+- **Fundamentos de Linux | FIAP** – 40 horas
+- **Power BI Profissional | Udemy** – 19.5 horas
+- **Imersão Dart Week | Flutter Academy** – 12 horas
+</details>
+---
+
+## 🛠 Ferramentas:
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-6c757d?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=6c757d)](https://visualstudio.microsoft.com/) &nbsp;
 [![Power BI Desktop](https://img.shields.io/badge/-Power%20BI%20Desktop-6c757d?style=for-the-badge&logo=powerbi&logoColor=90ee90&labelColor=6c757d)](https://powerbi.microsoft.com/) &nbsp;
 [![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-6c757d?style=for-the-badge&logo=visual-studio-code&labelColor=6c757d)](https://code.visualstudio.com/) &nbsp;
@@ -43,43 +65,47 @@ Quanto à minha formação, sou pós-graduando em **Algoritmos e Estruturas de D
 
 ---
 
-## 📚 Other Knowledge:
+## 📚 Outros Conhecimentos:
 [![Flutter](https://img.shields.io/badge/-Flutter-6c757d?style=for-the-badge&logo=flutter&labelColor=6c757d)](https://flutter.dev/) &nbsp;
 [![MySQL](https://img.shields.io/badge/-MySQL-6c757d?style=for-the-badge&logo=mysql&labelColor=6c757d)](https://www.mysql.com/) &nbsp;
 
 ---
 
-## 📖 Studying in this moment:
+## 📖 Estudando no momento:
 [![Flutter/Dart](https://img.shields.io/badge/-Flutter%2FDart-6c757d?style=for-the-badge&logo=flutter&labelColor=6c757d)](https://flutter.dev/) &nbsp;
 
 ---
 
-## 📞 Contact
+## 📞 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/leonardo-massaroli-260ba9210/) &nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:leomassaroli@gmail.com) &nbsp;
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 Estatísticas do GitHub:
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leomassaroli&show_icons=true&count_private=true&hide_border=true&title_color=6c757d&icon_color=6c757d&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Massaroli Gui Martins github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leomassaroli&show_icons=true&count_private=true&hide_border=true&title_color=6c757d&icon_color=6c757d&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Leonardo Massaroli Gui Martins" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leomassaroli&layout=compact&hide_border=true&title_color=6c757d&text_color=6c757d&bg_color=0d1117" />
 </div>
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leomassaroli&bg_color=000000&color=6c757d&line=6c757d&point=6c757d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de atividade do GitHub de Ashutosh](https://github-readme-activity-graph.vercel.app/graph?username=Leomassaroli&bg_color=000000&color=6c757d&line=6c757d&point=6c757d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
 <p align="center">
-  <img src="https://github
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leomassaroli&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leomassaroli&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contagem de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leomassaroli}/count.svg" /></p> 
 <br></div>
 
