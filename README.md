@@ -12,23 +12,14 @@ Quanto à minha formação, sou pós-graduando em **Algoritmos e Estruturas de D
 ---
 
 ## 🚀 Main Skills:
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Power%20BI-6c757d?style=for-the-badge&logo=powerbi&labelColor=6c757d" alt="Power BI"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/-HTML-6c757d?style=for-the-badge&logo=html5&labelColor=6c757d" alt="HTML"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/-CSS-6c757d?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=6c757d" alt="CSS"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/-CSharp-6c757d?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=6c757d" alt="C#"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Python-6c757d?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=6c757d" alt="Python"/>
-  </a>
-</p>
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-Tool-6c757d?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=000000)](https://powerbi.microsoft.com/)
+<br><br>
+[![HTML](https://img.shields.io/badge/HTML-Language-6c757d?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-Language-6c757d?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![C#](https://img.shields.io/badge/CSharp-Language-6c757d?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/Python-Language-6c757d?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://www.python.org/)
+[![DAX](https://img.shields.io/badge/DAX-Language-6c757d?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=000000)](https://www.sqlbi.com/dax/)
 
 ---
 
@@ -42,62 +33,30 @@ Quanto à minha formação, sou pós-graduando em **Algoritmos e Estruturas de D
 ---
 
 ## 🛠 Tools:
-<p align="left">
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Visual%20Studio-6c757d?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=6c757d" alt="Visual Studio"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Power%20BI%20Desktop-6c757d?style=for-the-badge&logo=powerbi&logoColor=90ee90&labelColor=6c757d" alt="Power BI Desktop"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-6c757d?style=for-the-badge&logo=visual-studio-code&labelColor=6c757d" alt="VS Code"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-6c757d?style=for-the-badge&logo=github&labelColor=6c757d" alt="GitHub"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Git-6c757d?style=for-the-badge&logo=git&labelColor=6c757d" alt="Git"/>
-  </a>
-  <a href="https://www.office.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Microsoft%20Office-6c757d?style=for-the-badge&logo=microsoft-office&labelColor=6c757d" alt="Microsoft Office"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-    <img src="https://img.shields.io/badge/-Windows-6c757d?style=for-the-badge&logo=windows&labelColor=6c757d" alt="Windows"/>
-  </a>
-</p>
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-6c757d?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=6c757d)](https://visualstudio.microsoft.com/) &nbsp;
+[![Power BI Desktop](https://img.shields.io/badge/-Power%20BI%20Desktop-6c757d?style=for-the-badge&logo=powerbi&logoColor=90ee90&labelColor=6c757d)](https://powerbi.microsoft.com/) &nbsp;
+[![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-6c757d?style=for-the-badge&logo=visual-studio-code&labelColor=6c757d)](https://code.visualstudio.com/) &nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-6c757d?style=for-the-badge&logo=github&labelColor=6c757d)](https://github.com/) &nbsp;
+[![Git](https://img.shields.io/badge/-Git-6c757d?style=for-the-badge&logo=git&labelColor=6c757d)](https://git-scm.com/) &nbsp;
+[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-6c757d?style=for-the-badge&logo=microsoft-office&labelColor=6c757d)](https://www.office.com/) &nbsp;
+[![Windows](https://img.shields.io/badge/-Windows-6c757d?style=for-the-badge&logo=windows&labelColor=6c757d)](https://www.microsoft.com/en-us/windows) &nbsp;
 
 ---
 
 ## 📚 Other Knowledge:
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Flutter-6c757d?style=for-the-badge&logo=flutter&labelColor=6c757d" alt="Flutter"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-MySQL-6c757d?style=for-the-badge&logo=mysql&labelColor=6c757d" alt="MySQL"/>
-  </a>
-</p>
+[![Flutter](https://img.shields.io/badge/-Flutter-6c757d?style=for-the-badge&logo=flutter&labelColor=6c757d)](https://flutter.dev/) &nbsp;
+[![MySQL](https://img.shields.io/badge/-MySQL-6c757d?style=for-the-badge&logo=mysql&labelColor=6c757d)](https://www.mysql.com/) &nbsp;
 
 ---
 
 ## 📖 Studying in this moment:
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Power%20BI%2FDAX-6c757d?style=for-the-badge&logo=powerbi&labelColor=6c757d" alt="Power BI/DAX"/>
-  </a>
-</p>
+[![Flutter/Dart](https://img.shields.io/badge/-Flutter%2FDart-6c757d?style=for-the-badge&logo=flutter&labelColor=6c757d)](https://flutter.dev/) &nbsp;
 
 ---
 
-## 🌟 Contact
-<p align="left">
-  <a href="https://www.linkedin.com/in/leonardo-massaroli-260ba9210/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-6c757d?style=for-the-badge&logo=linkedin&logoColor=00bfbf&labelColor=6c757d" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:leomassaroli@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-6c757d?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=6c757d" alt="Gmail"/>
-  </a>
-</p>
+## 📞 Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/leonardo-massaroli-260ba9210/) &nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:leomassaroli@gmail.com) &nbsp;
 
 ---
 
