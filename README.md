@@ -5,7 +5,7 @@
 ## 🧑‍💻 About Me
 Sou Leonardo Massaroli Gui Martins, um desenvolvedor apaixonado por **Business Intelligence**, com habilidades em **Power BI**, **DAX** e **Python**. Estou constantemente me aprofundando em como transformar dados em insights visuais e criar soluções que otimizam a tomada de decisões.
 
-Atualmente, estou me aprimorando no desenvolvimento **back-end**, com foco em **Flutter**, uma plataforma que me interessa bastante para criar aplicativos robustos e eficientes.
+Atualmente, estou me aprimorando no desenvolvimento **back-end**, com foco em **Flutter**, uma linguagem que me interessa bastante para criar aplicativos robustos e eficientes.
 
 Quanto à minha formação, sou pós-graduando em **Algoritmos e Estruturas de Dados** pela **FACUPAR**. Também tenho **Bacharelado em Análise e Desenvolvimento de Sistemas** pela **UNIP** e um **Técnico em Informática** pelo **SENAC**.
 
