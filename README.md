@@ -55,24 +55,24 @@ Este repositório contém todos os projetos realizados durante o curso de Power 
 ---
 
 ## 🛠 Ferramentas:
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-3399FF?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=3399FF)](https://visualstudio.microsoft.com/) &nbsp;
-[![Power BI Desktop](https://img.shields.io/badge/-Power%20BI%20Desktop-3399FF?style=for-the-badge&logo=powerbi&logoColor=90ee90&labelColor=3399FF)](https://powerbi.microsoft.com/) &nbsp;
-[![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3399FF?style=for-the-badge&logo=visual-studio-code&labelColor=3399FF)](https://code.visualstudio.com/) &nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-3399FF?style=for-the-badge&logo=github&labelColor=3399FF)](https://github.com/) &nbsp;
-[![Git](https://img.shields.io/badge/-Git-3399FF?style=for-the-badge&logo=git&labelColor=3399FF)](https://git-scm.com/) &nbsp;
-[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-3399FF?style=for-the-badge&logo=microsoft-office&labelColor=3399FF)](https://www.office.com/) &nbsp;
-[![Windows](https://img.shields.io/badge/-Windows-3399FF?style=for-the-badge&logo=windows&labelColor=3399FF)](https://www.microsoft.com/en-us/windows) &nbsp;
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-2d2d2d?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=2d2d2d)](https://visualstudio.microsoft.com/) &nbsp;
+[![Power BI Desktop](https://img.shields.io/badge/-Power%20BI%20Desktop-2d2d2d?style=for-the-badge&logo=powerbi&logoColor=90ee90&labelColor=2d2d2d)](https://powerbi.microsoft.com/) &nbsp;
+[![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2d2d2d?style=for-the-badge&logo=visual-studio-code&labelColor=2d2d2d)](https://code.visualstudio.com/) &nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-2d2d2d?style=for-the-badge&logo=github&labelColor=2d2d2d)](https://github.com/) &nbsp;
+[![Git](https://img.shields.io/badge/-Git-2d2d2d?style=for-the-badge&logo=git&labelColor=2d2d2d)](https://git-scm.com/) &nbsp;
+[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-2d2d2d?style=for-the-badge&logo=microsoft-office&labelColor=2d2d2d)](https://www.office.com/) &nbsp;
+[![Windows](https://img.shields.io/badge/-Windows-2d2d2d?style=for-the-badge&logo=windows&labelColor=2d2d2d)](https://www.microsoft.com/en-us/windows) &nbsp;
 
 ---
 
 ## 📚 Outros Conhecimentos:
-[![Flutter](https://img.shields.io/badge/-Flutter-3399FF?style=for-the-badge&logo=flutter&labelColor=3399FF)](https://flutter.dev/) &nbsp;
-[![MySQL](https://img.shields.io/badge/-MySQL-3399FF?style=for-the-badge&logo=mysql&labelColor=3399FF)](https://www.mysql.com/) &nbsp;
+[![Flutter](https://img.shields.io/badge/-Flutter-2d2d2d?style=for-the-badge&logo=flutter&labelColor=2d2d2d)](https://flutter.dev/) &nbsp;
+[![MySQL](https://img.shields.io/badge/-MySQL-2d2d2d?style=for-the-badge&logo=mysql&labelColor=2d2d2d)](https://www.mysql.com/) &nbsp;
 
 ---
 
 ## 📖 Estudando no momento:
-[![Flutter/Dart](https://img.shields.io/badge/-Flutter%2FDart-3399FF?style=for-the-badge&logo=flutter&labelColor=3399FF)](https://flutter.dev/) &nbsp;
+[![Flutter/Dart](https://img.shields.io/badge/-Flutter%2FDart-2d2d2d?style=for-the-badge&logo=flutter&labelColor=2d2d2d)](https://flutter.dev/) &nbsp;
 
 ---
 
@@ -85,8 +85,8 @@ Este repositório contém todos os projetos realizados durante o curso de Power 
 ## 📊 Estatísticas do GitHub:
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leomassaroli&show_icons=true&count_private=true&hide_border=true&title_color=3399FF&icon_color=3399FF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Leonardo Massaroli Gui Martins" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leomassaroli&layout=compact&hide_border=true&title_color=3399FF&text_color=3399FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leomassaroli&show_icons=true&count_private=true&hide_border=true&title_color=3399FF&icon_color=3399FF&text_color=c9d1d9&bg_color=1e1e1e" alt="Estatísticas do GitHub de Leonardo Massaroli Gui Martins" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leomassaroli&layout=compact&hide_border=true&title_color=3399FF&text_color=3399FF&bg_color=1e1e1e" />
 </div>
 
 <br>
