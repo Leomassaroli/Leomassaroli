@@ -46,6 +46,7 @@ Este repositório contém todos os projetos realizados durante o curso de Power 
 <details>
    <summary> Clique para expandir.</summary>
 
+- **Sysvision - Data Analytics com Power BI | DIO** – 82 horas
 - **DevOps & Cultura Ágil | FIAP** – 60 horas
 - **Fundamentos de Java | FIAP** – 60 horas
 - **Fundamentos de Linux | FIAP** – 40 horas
