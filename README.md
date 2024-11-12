@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c757d&size=35&center=true&vCenter=true&width=1000&lines=Olá.+Meu+nome+é+Leonardo+Massaroli+Gui+Martins;Tenho+23+anos;Sou+de+Ribeirão+Preto,+SP;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3399FF&size=35&center=true&vCenter=true&width=1000&lines=Olá.+Meu+nome+é+Leonardo+Massaroli+Gui+Martins;Tenho+23+anos;Sou+de+Ribeirão+Preto,+SP;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ## 🧑‍💻 Sobre Mim
 Sou Leonardo Massaroli Gui Martins, um desenvolvedor apaixonado por **Business Intelligence**, com habilidades em **Power BI**, **DAX** e **Python**. Estou constantemente me aprofundando em como transformar dados em insights visuais e criar soluções que otimizam a tomada de decisões.
@@ -13,13 +13,13 @@ Quanto à minha formação, sou pós-graduando em **Algoritmos e Estruturas de D
 
 ## 🚀 Habilidades Principais:
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Tool-6c757d?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=000000)](https://powerbi.microsoft.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Tool-3399FF?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=000000)](https://powerbi.microsoft.com/)&nbsp;
 <br><br>
-[![HTML](https://img.shields.io/badge/HTML-Language-6c757d?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-Language-6c757d?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![C#](https://img.shields.io/badge/CSharp-Language-6c757d?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Python](https://img.shields.io/badge/Python-Language-6c757d?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://www.python.org/)
-[![DAX](https://img.shields.io/badge/DAX-Language-6c757d?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=000000)](https://www.sqlbi.com/dax/)
+[![HTML](https://img.shields.io/badge/HTML-Language-3399FF?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
+[![CSS](https://img.shields.io/badge/CSS-Language-3399FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
+[![C#](https://img.shields.io/badge/CSharp-Language-3399FF?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000)](https://learn.microsoft.com/en-us/dotnet/csharp/)&nbsp;
+[![Python](https://img.shields.io/badge/Python-Language-3399FF?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://www.python.org/)&nbsp;
+[![DAX](https://img.shields.io/badge/DAX-Language-3399FF?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=000000)](https://www.sqlbi.com/dax/)&nbsp;
 
 ---
 
@@ -55,24 +55,24 @@ Este repositório contém todos os projetos realizados durante o curso de Power 
 ---
 
 ## 🛠 Ferramentas:
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-6c757d?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=6c757d)](https://visualstudio.microsoft.com/) &nbsp;
-[![Power BI Desktop](https://img.shields.io/badge/-Power%20BI%20Desktop-6c757d?style=for-the-badge&logo=powerbi&logoColor=90ee90&labelColor=6c757d)](https://powerbi.microsoft.com/) &nbsp;
-[![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-6c757d?style=for-the-badge&logo=visual-studio-code&labelColor=6c757d)](https://code.visualstudio.com/) &nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-6c757d?style=for-the-badge&logo=github&labelColor=6c757d)](https://github.com/) &nbsp;
-[![Git](https://img.shields.io/badge/-Git-6c757d?style=for-the-badge&logo=git&labelColor=6c757d)](https://git-scm.com/) &nbsp;
-[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-6c757d?style=for-the-badge&logo=microsoft-office&labelColor=6c757d)](https://www.office.com/) &nbsp;
-[![Windows](https://img.shields.io/badge/-Windows-6c757d?style=for-the-badge&logo=windows&labelColor=6c757d)](https://www.microsoft.com/en-us/windows) &nbsp;
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-3399FF?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=3399FF)](https://visualstudio.microsoft.com/) &nbsp;
+[![Power BI Desktop](https://img.shields.io/badge/-Power%20BI%20Desktop-3399FF?style=for-the-badge&logo=powerbi&logoColor=90ee90&labelColor=3399FF)](https://powerbi.microsoft.com/) &nbsp;
+[![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3399FF?style=for-the-badge&logo=visual-studio-code&labelColor=3399FF)](https://code.visualstudio.com/) &nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-3399FF?style=for-the-badge&logo=github&labelColor=3399FF)](https://github.com/) &nbsp;
+[![Git](https://img.shields.io/badge/-Git-3399FF?style=for-the-badge&logo=git&labelColor=3399FF)](https://git-scm.com/) &nbsp;
+[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-3399FF?style=for-the-badge&logo=microsoft-office&labelColor=3399FF)](https://www.office.com/) &nbsp;
+[![Windows](https://img.shields.io/badge/-Windows-3399FF?style=for-the-badge&logo=windows&labelColor=3399FF)](https://www.microsoft.com/en-us/windows) &nbsp;
 
 ---
 
 ## 📚 Outros Conhecimentos:
-[![Flutter](https://img.shields.io/badge/-Flutter-6c757d?style=for-the-badge&logo=flutter&labelColor=6c757d)](https://flutter.dev/) &nbsp;
-[![MySQL](https://img.shields.io/badge/-MySQL-6c757d?style=for-the-badge&logo=mysql&labelColor=6c757d)](https://www.mysql.com/) &nbsp;
+[![Flutter](https://img.shields.io/badge/-Flutter-3399FF?style=for-the-badge&logo=flutter&labelColor=3399FF)](https://flutter.dev/) &nbsp;
+[![MySQL](https://img.shields.io/badge/-MySQL-3399FF?style=for-the-badge&logo=mysql&labelColor=3399FF)](https://www.mysql.com/) &nbsp;
 
 ---
 
 ## 📖 Estudando no momento:
-[![Flutter/Dart](https://img.shields.io/badge/-Flutter%2FDart-6c757d?style=for-the-badge&logo=flutter&labelColor=6c757d)](https://flutter.dev/) &nbsp;
+[![Flutter/Dart](https://img.shields.io/badge/-Flutter%2FDart-3399FF?style=for-the-badge&logo=flutter&labelColor=3399FF)](https://flutter.dev/) &nbsp;
 
 ---
 
@@ -83,19 +83,20 @@ Este repositório contém todos os projetos realizados durante o curso de Power 
 ---
 
 ## 📊 Estatísticas do GitHub:
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leomassaroli&show_icons=true&count_private=true&hide_border=true&title_color=6c757d&icon_color=6c757d&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Leonardo Massaroli Gui Martins" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leomassaroli&layout=compact&hide_border=true&title_color=6c757d&text_color=6c757d&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leomassaroli&show_icons=true&count_private=true&hide_border=true&title_color=3399FF&icon_color=3399FF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Leonardo Massaroli Gui Martins" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leomassaroli&layout=compact&hide_border=true&title_color=3399FF&text_color=3399FF&bg_color=0d1117" />
 </div>
 
 <br>
 
-[![Gráfico de atividade do GitHub de Ashutosh](https://github-readme-activity-graph.vercel.app/graph?username=Leomassaroli&bg_color=000000&color=6c757d&line=6c757d&point=6c757d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🏆 Conquistas do GitHub:
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leomassaroli&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leomassaroli&theme=dark&hide_border=true" />
 </p>
 
 <br>
@@ -109,4 +110,4 @@ Este repositório contém todos os projetos realizados durante o curso de Power 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leomassaroli}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3399FF&height=120&section=footer"/>
