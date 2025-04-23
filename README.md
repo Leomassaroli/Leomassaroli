@@ -107,8 +107,6 @@ _(Ainda em desenvolvimento...)_
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leomassaroli&layout=compact&hide_border=true&title_color=3399FF&text_color=3399FF&bg_color=1e1e1e" />
 </div>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Leomassaroli)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 🏆 Conquistas do GitHub
