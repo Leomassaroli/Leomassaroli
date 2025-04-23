@@ -6,7 +6,7 @@
 
 Sou Leonardo Massaroli Gui Martins, um desenvolvedor apaixonado por **Business Intelligence**, com forte domínio em **Power BI**, **DAX** e **Python**. Meu foco está em transformar dados em insights visuais e criar soluções que otimizem a tomada de decisões.
 
-Atualmente estou me aprofundando no **desenvolvimento mobile**, com foco em **Flutter/Dart**, tecnologias que têm me conquistado pela praticidade e robustez na criação de aplicativos modernos e eficientes.
+Atualmente, estou expandindo meus conhecimentos na área de **desenvolvimento mobile**, com foco em **Flutter/Dart**, tecnologias que têm me conquistado pela praticidade e robustez na criação de aplicativos modernos e eficientes.
 
 Minha formação inclui:
 - Pós-graduando em **Algoritmos e Estruturas de Dados** pela **FACUPAR**;
@@ -112,7 +112,7 @@ _(Ainda em desenvolvimento...)_
 ## 🏆 Conquistas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leomassaroli&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Leomassaroli&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
