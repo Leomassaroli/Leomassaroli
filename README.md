@@ -112,10 +112,6 @@ _(Ainda em desenvolvimento...)_
 ## 🏆 Conquistas do GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Leomassaroli&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leomassaroli&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
